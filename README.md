@@ -30,9 +30,9 @@ Criterios de Aceptación:
 •	✅ Esta sección debe contener entre 3 y 6 tarjetas de recetas escritas directamente en el archivo index.html (hard-codeadas).
 •	✅ Cada tarjeta debe utilizar el componente card de Bootstrap.
 •	✅ Cada tarjeta debe incluir obligatoriamente:
-o	Una imagen (<img class="card-img-top">).
-o	Un título (<h5 class="card-title">).
-o	Un botón o enlace (<a href="#" class="btn btn-primary">).
+o	Una imagen.
+o	Un título.
+o	Un botón o enlace.
 ________________________________________
 
 HU-03: Experiencia en Dispositivos Móviles
