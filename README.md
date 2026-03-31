@@ -7,7 +7,8 @@ El objetivo es mostrar una interfaz atractiva, intuitiva y responsiva donde los 
 
 ## 🎬 Demo
 
-🔗 **Demo inicio:** https://TU-USUARIO.github.io/TU-REPOSITORIO/
+🔗 **Demo inicio:** <img width="1706" height="868" alt="buscadorderecetas" src="https://github.com/user-attachments/assets/9e254fd3-2ddc-490c-b1fa-bd413363f1ee" />
+
 
 ---
 📸 **Vista previa del proyecto:**
