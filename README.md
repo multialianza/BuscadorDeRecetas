@@ -12,7 +12,7 @@ El objetivo es mostrar una interfaz atractiva, intuitiva y responsiva donde los 
 
 ## 🎬 Demo
 
-🔗 **Demo en vivo:** <img width="1706" height="868" alt="buscadorderecetas" src="https://github.com/user-attachments/assets/9e254fd3-2ddc-490c-b1fa-bd413363f1ee" />
+🔗 **Demo en vivo:**  https://multialianza.github.io/BuscadorDeRecetas/
 
 ---
 
@@ -54,12 +54,12 @@ El objetivo es mostrar una interfaz atractiva, intuitiva y responsiva donde los 
 
 ## 🔍 Funcionalidades
 
-✅ Buscador visual de recetas
-✅ Tarjetas de recetas (cards Bootstrap)
-✅ Diseño completamente responsivo
-✅ Sección de contacto funcional (UI)
-✅ Footer profesional
-✅ Simulación de búsqueda en consola
+- ✅ Buscador visual de recetas
+- ✅ Tarjetas de recetas (cards Bootstrap)
+- ✅ Diseño completamente responsivo
+- ✅ Sección de contacto funcional (UI)
+- ✅ Footer profesional
+- ✅ Simulación de búsqueda en consola
 
 ---
 
@@ -160,30 +160,30 @@ ________________________________________
 
 **HU-01: Interfaz Principal de Búsqueda**
 
-•	Como usuario que visita el sitio,
-•	Quiero ver un encabezado claro y un campo de búsqueda prominente,
-•	Para entender inmediatamente el propósito de la aplicación y cómo empezar a usarla.
+-	Como usuario que visita el sitio,
+-	Quiero ver un encabezado claro y un campo de búsqueda prominente,
+-	Para entender inmediatamente el propósito de la aplicación y cómo empezar a usarla.
 
 **Criterios de Aceptación:**
 
-•	✅ La página debe tener un título principal, como "Buscador de Recetas".
-•	✅ Debe existir un formulario que contenga un campo de texto (<input>) con un placeholder descriptivo (ej: "Busca por ingrediente...").
-•	✅ El formulario debe incluir un botón (<button>) con un texto claro (ej: "Buscar").
-•	✅ Los elementos deben estar estilizados usando clases de Bootstrap para form y button.
+-	✅ La página debe tener un título principal, como "Buscador de Recetas".
+-	✅ Debe existir un formulario que contenga un campo de texto (<input>) con un placeholder descriptivo (ej: "Busca por ingrediente...").
+-	✅ El formulario debe incluir un botón (<button>) con un texto claro (ej: "Buscar").
+-	✅ Los elementos deben estar estilizados usando clases de Bootstrap para form y button.
 ________________________________________
 ---
 **HU-02: Visualización de Recetas de Ejemplo**
 
-•	Como usuario nuevo,
-•	Quiero ver una galería con ejemplos de recetas al cargar la página,
-•	Para tener una idea de cómo se presentarán los resultados y qué tipo de contenido esperar.
+-	Como usuario nuevo,
+-	Quiero ver una galería con ejemplos de recetas al cargar la página,
+-	Para tener una idea de cómo se presentarán los resultados y qué tipo de contenido esperar.
 
 **Criterios de Aceptación:**
 
-•	✅ Se debe mostrar una sección de resultados debajo del buscador.
-•	✅ Esta sección debe contener entre 3 y 6 tarjetas de recetas escritas directamente en el archivo index.html (hard-codeadas).
-•	✅ Cada tarjeta debe utilizar el componente card de Bootstrap.
-•	✅ Cada tarjeta debe incluir obligatoriamente:
+-	✅ Se debe mostrar una sección de resultados debajo del buscador.
+-	✅ Esta sección debe contener entre 3 y 6 tarjetas de recetas escritas directamente en el archivo index.html (hard-codeadas).
+-	✅ Cada tarjeta debe utilizar el componente card de Bootstrap.
+-	✅ Cada tarjeta debe incluir obligatoriamente:
 o	Una imagen.
 o	Un título.
 o	Un botón o enlace.
@@ -191,19 +191,19 @@ ________________________________________
 ---
 **HU-03: Experiencia en Dispositivos Móviles**
 
-•	Como usuario de smartphone,
-•	Quiero que la aplicación se adapte fluidamente a mi pantalla,
-•	Para poder buscar recetas cómodamente desde cualquier lugar.
+-	Como usuario de smartphone,
+-	Quiero que la aplicación se adapte fluidamente a mi pantalla,
+-	Para poder buscar recetas cómodamente desde cualquier lugar.
 
 **Criterios de Aceptación:**
 
-•	✅ El diseño debe ser completamente responsivo.
-•	✅ En pantallas grandes (desktop), las tarjetas de recetas deben mostrarse en una grilla (ej: 3 columnas).
-•	✅ En pantallas pequeñas (móviles), las tarjetas deben apilarse verticalmente (1 columna).
-•	✅ El sistema de grillas de Bootstrap (row, col-lg-4, col-md-6, etc.) debe ser utilizado para lograr la responsividad.
+-	✅ El diseño debe ser completamente responsivo.
+-	✅ En pantallas grandes (desktop), las tarjetas de recetas deben mostrarse en una grilla (ej: 3 columnas).
+-	✅ En pantallas pequeñas (móviles), las tarjetas deben apilarse verticalmente (1 columna).
+-	✅ El sistema de grillas de Bootstrap (row, col-lg-4, col-md-6, etc.) debe ser utilizado para lograr la responsividad.
 ________________________________________
 ---
 **Requisitos Técnicos y Entregables**
-•	Estructura del Proyecto: El código debe estar organizado en tres archivos base: index.html para la estructura, style.css para estilos personalizados, y app.js (que permanecerá vacío o con comentarios, preparando el terreno para el Sprint 2).
-•	Frameworks y Librerías: Se debe utilizar Bootstrap 5 como framework principal de CSS. Se permite el uso de un style.css adicional para personalizar detalles finos (colores, fuentes, sombras, etc.).
-•	Entregable: Un repositorio público de GitHub que contenga la carpeta del proyecto con los tres archivos. El enlace al repositorio es el único entregable requerido.
+-	**Estructura del Proyecto:** El código debe estar organizado en tres archivos base: index.html para la estructura, style.css para estilos personalizados, y app.js (que permanecerá vacío o con comentarios, preparando el terreno para el Sprint 2).
+-	**Frameworks y Librerías:** Se debe utilizar Bootstrap 5 como framework principal de CSS. Se permite el uso de un style.css adicional para personalizar detalles finos (colores, fuentes, sombras, etc.).
+-	**Entregable:** Un repositorio público de GitHub que contenga la carpeta del proyecto con los tres archivos. El enlace al repositorio es el único entregable requerido.
